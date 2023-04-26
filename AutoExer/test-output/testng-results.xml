@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="24" total="31" passed="5" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-25T20:58:35 IST" name="Suite" finished-at="2023-04-25T21:03:05 IST" duration-ms="269874">
+    <groups>
+    </groups>
+    <test started-at="2023-04-25T20:58:35 IST" name="Test" finished-at="2023-04-25T21:03:05 IST" duration-ms="269874">
+      <class name="com.ae.women.categoryTest.WomenSareesPageTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.ae.women.categoryTest.WomenSareesPageTest@3bd323e9]" started-at="2023-04-25T20:58:34 IST" name="configBS" finished-at="2023-04-25T20:58:35 IST" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBT()[pri:0, instance:com.ae.women.categoryTest.WomenSareesPageTest@3bd323e9]" started-at="2023-04-25T20:58:35 IST" name="configBT" finished-at="2023-04-25T20:58:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.ae.women.categoryTest.WomenSareesPageTest@3bd323e9]" started-at="2023-04-25T20:58:35 IST" name="configBC" finished-at="2023-04-25T20:58:43 IST" duration-ms="8132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.ae.women.categoryTest.WomenSareesPageTest@3bd323e9]" started-at="2023-04-25T20:58:43 IST" name="configBM" finished-at="2023-04-25T20:59:11 IST" duration-ms="28089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="loginToAp()[pri:0, instance:com.ae.women.categoryTest.WomenSareesPageTest@3bd323e9]" started-at="2023-04-25T20:59:11 IST" name="loginToAp" finished-at="2023-04-25T20:59:19 IST" duration-ms="7787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAp -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.ae.women.categoryTest.WomenSareesPageTest@3bd323e9]" started-at="2023-04-25T20:59:19 IST" name="configAM" finished-at="2023-04-25T20:59:19 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.ae.women.categoryTest.WomenSareesPageTest@3bd323e9]" started-at="2023-04-25T20:59:19 IST" name="configAC" finished-at="2023-04-25T20:59:20 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAT()[pri:0, instance:com.ae.women.categoryTest.WomenSareesPageTest@3bd323e9]" started-at="2023-04-25T21:03:05 IST" name="configAT" finished-at="2023-04-25T21:03:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.ae.women.categoryTest.WomenSareesPageTest@3bd323e9]" started-at="2023-04-25T21:03:05 IST" name="configAS" finished-at="2023-04-25T21:03:05 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.ae.women.categoryTest.WomenSareesPageTest -->
+      <class name="com.ae.women.categoryTest.WomenDressPageTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.ae.women.categoryTest.WomenDressPageTest@54504ecd]" started-at="2023-04-25T21:00:28 IST" name="configBC" finished-at="2023-04-25T21:00:30 IST" duration-ms="1715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.ae.women.categoryTest.WomenDressPageTest@54504ecd]" started-at="2023-04-25T21:00:30 IST" name="configBM" finished-at="2023-04-25T21:01:01 IST" duration-ms="31582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="loginToAp()[pri:0, instance:com.ae.women.categoryTest.WomenDressPageTest@54504ecd]" started-at="2023-04-25T21:01:02 IST" name="loginToAp" finished-at="2023-04-25T21:01:06 IST" duration-ms="4771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAp -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.ae.women.categoryTest.WomenDressPageTest@54504ecd]" started-at="2023-04-25T21:01:06 IST" name="configAM" finished-at="2023-04-25T21:01:06 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.ae.women.categoryTest.WomenDressPageTest@54504ecd]" started-at="2023-04-25T21:01:06 IST" name="configAC" finished-at="2023-04-25T21:01:07 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.ae.women.categoryTest.WomenDressPageTest -->
+      <class name="com.ae.women.categoryTest.WomenTopsPageTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.ae.women.categoryTest.WomenTopsPageTest@74bf1791]" started-at="2023-04-25T20:59:53 IST" name="configBC" finished-at="2023-04-25T20:59:55 IST" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.ae.women.categoryTest.WomenTopsPageTest@74bf1791]" started-at="2023-04-25T20:59:55 IST" name="configBM" finished-at="2023-04-25T21:00:22 IST" duration-ms="26917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="loginToAp()[pri:0, instance:com.ae.women.categoryTest.WomenTopsPageTest@74bf1791]" started-at="2023-04-25T21:00:22 IST" name="loginToAp" finished-at="2023-04-25T21:00:28 IST" duration-ms="5783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAp -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.ae.women.categoryTest.WomenTopsPageTest@74bf1791]" started-at="2023-04-25T21:00:28 IST" name="configAM" finished-at="2023-04-25T21:00:28 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.ae.women.categoryTest.WomenTopsPageTest@74bf1791]" started-at="2023-04-25T21:00:28 IST" name="configAC" finished-at="2023-04-25T21:00:28 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.ae.women.categoryTest.WomenTopsPageTest -->
+      <class name="com.ae.men.categoryTest.MenJeansProductTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.ae.men.categoryTest.MenJeansProductTest@1339e7aa]" started-at="2023-04-25T21:02:01 IST" name="configBC" finished-at="2023-04-25T21:02:03 IST" duration-ms="1896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.ae.men.categoryTest.MenJeansProductTest@1339e7aa]" started-at="2023-04-25T21:02:03 IST" name="configBM" finished-at="2023-04-25T21:02:31 IST" duration-ms="28453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="loginToAp()[pri:0, instance:com.ae.men.categoryTest.MenJeansProductTest@1339e7aa]" started-at="2023-04-25T21:02:31 IST" name="loginToAp" finished-at="2023-04-25T21:02:32 IST" duration-ms="859" status="FAIL">
+          <exception class="org.openqa.selenium.NoAlertPresentException">
+            <message>
+              <![CDATA[no such alert
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [351ebaf316b479c2282ce5e64bffd029, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\acer\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55613}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55613/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 351ebaf316b479c2282ce5e64bffd029]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [351ebaf316b479c2282ce5e64bffd029, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\acer\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55613}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55613/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 351ebaf316b479c2282ce5e64bffd029
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:598)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:1079)
+at com.ae.GenericUtilities.WebDriverUtility.acceptAlert(WebDriverUtility.java:186)
+at com.ae.MenJeansProductPagePomclass.MenJeansProductPage.JeansText(MenJeansProductPage.java:30)
+at com.ae.men.categoryTest.MenJeansProductTest.loginToAp(MenJeansProductTest.java:19)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoAlertPresentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAp -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.ae.men.categoryTest.MenJeansProductTest@1339e7aa]" started-at="2023-04-25T21:02:32 IST" name="configAM" finished-at="2023-04-25T21:02:32 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.ae.men.categoryTest.MenJeansProductTest@1339e7aa]" started-at="2023-04-25T21:02:32 IST" name="configAC" finished-at="2023-04-25T21:02:33 IST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.ae.men.categoryTest.MenJeansProductTest -->
+      <class name="com.ae.men.categoryTest.MenTShirtProductTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.ae.men.categoryTest.MenTShirtProductTest@19c65cdc]" started-at="2023-04-25T20:59:20 IST" name="configBC" finished-at="2023-04-25T20:59:21 IST" duration-ms="1656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.ae.men.categoryTest.MenTShirtProductTest@19c65cdc]" started-at="2023-04-25T20:59:21 IST" name="configBM" finished-at="2023-04-25T20:59:46 IST" duration-ms="24538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="loginToAp()[pri:0, instance:com.ae.men.categoryTest.MenTShirtProductTest@19c65cdc]" started-at="2023-04-25T20:59:46 IST" name="loginToAp" finished-at="2023-04-25T20:59:53 IST" duration-ms="7288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAp -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.ae.men.categoryTest.MenTShirtProductTest@19c65cdc]" started-at="2023-04-25T20:59:53 IST" name="configAM" finished-at="2023-04-25T20:59:53 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.ae.men.categoryTest.MenTShirtProductTest@19c65cdc]" started-at="2023-04-25T20:59:53 IST" name="configAC" finished-at="2023-04-25T20:59:53 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.ae.men.categoryTest.MenTShirtProductTest -->
+      <class name="com.ae.kids.categoryTest.KidsDressProductTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.ae.kids.categoryTest.KidsDressProductTest@38b27cdc]" started-at="2023-04-25T21:01:07 IST" name="configBC" finished-at="2023-04-25T21:01:08 IST" duration-ms="1543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.ae.kids.categoryTest.KidsDressProductTest@38b27cdc]" started-at="2023-04-25T21:01:08 IST" name="configBM" finished-at="2023-04-25T21:01:38 IST" duration-ms="30000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="loginToAp()[pri:0, instance:com.ae.kids.categoryTest.KidsDressProductTest@38b27cdc]" started-at="2023-04-25T21:01:38 IST" name="loginToAp" finished-at="2023-04-25T21:02:00 IST" duration-ms="21387" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='Kids - Dress Products']"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d04643fab7c973e665c11c292898ca83, findElement {using=xpath, value=//h2[text()='Kids - Dress Products']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\acer\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55531}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55531/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d04643fab7c973e665c11c292898ca83]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='Kids - Dress Products']"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d04643fab7c973e665c11c292898ca83, findElement {using=xpath, value=//h2[text()='Kids - Dress Products']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\acer\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55531}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55531/devtoo..., se:cdpVersion: 112.0.5615.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d04643fab7c973e665c11c292898ca83
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at jdk.proxy2/jdk.proxy2.$Proxy22.getText(Unknown Source)
+at com.ae.KidsDressProductPagePomclass.KidsDressProductPage.KidsDressText(KidsDressProductPage.java:29)
+at com.ae.kids.categoryTest.KidsDressProductTest.loginToAp(KidsDressProductTest.java:20)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAp -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.ae.kids.categoryTest.KidsDressProductTest@38b27cdc]" started-at="2023-04-25T21:02:00 IST" name="configAM" finished-at="2023-04-25T21:02:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.ae.kids.categoryTest.KidsDressProductTest@38b27cdc]" started-at="2023-04-25T21:02:00 IST" name="configAC" finished-at="2023-04-25T21:02:01 IST" duration-ms="1278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.ae.kids.categoryTest.KidsDressProductTest -->
+      <class name="com.ae.kids.categoryTest.KidsTopsShirtProductTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.ae.kids.categoryTest.KidsTopsShirtProductTest@1fb669c3]" started-at="2023-04-25T21:02:33 IST" name="configBC" finished-at="2023-04-25T21:02:36 IST" duration-ms="2856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.ae.kids.categoryTest.KidsTopsShirtProductTest@1fb669c3]" started-at="2023-04-25T21:02:36 IST" name="configBM" finished-at="2023-04-25T21:02:58 IST" duration-ms="22222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="loginToAp()[pri:0, instance:com.ae.kids.categoryTest.KidsTopsShirtProductTest@1fb669c3]" started-at="2023-04-25T21:02:58 IST" name="loginToAp" finished-at="2023-04-25T21:03:04 IST" duration-ms="6346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAp -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.ae.kids.categoryTest.KidsTopsShirtProductTest@1fb669c3]" started-at="2023-04-25T21:03:04 IST" name="configAM" finished-at="2023-04-25T21:03:04 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.ae.kids.categoryTest.KidsTopsShirtProductTest@1fb669c3]" started-at="2023-04-25T21:03:04 IST" name="configAC" finished-at="2023-04-25T21:03:05 IST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.ae.kids.categoryTest.KidsTopsShirtProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

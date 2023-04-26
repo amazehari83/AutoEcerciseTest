@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.ae.kids.categoryTest.KidsDressProductTest">
+        <methods>
+          <include name="configAM"/>
+          <include name="configBM"/>
+          <include name="configAS"/>
+          <include name="configBT"/>
+          <include name="configAC"/>
+          <include name="configBS"/>
+          <include name="configBC"/>
+          <include name="loginToAp"/>
+          <include name="configAT"/>
+        </methods>
+      </class> <!-- com.ae.kids.categoryTest.KidsDressProductTest -->
+      <class name="com.ae.men.categoryTest.MenJeansProductTest">
+        <methods>
+          <include name="loginToAp"/>
+          <include name="configAM"/>
+          <include name="configBM"/>
+          <include name="configAS"/>
+          <include name="configBT"/>
+          <include name="configAC"/>
+          <include name="configBS"/>
+          <include name="configBC"/>
+          <include name="configAT"/>
+        </methods>
+      </class> <!-- com.ae.men.categoryTest.MenJeansProductTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
